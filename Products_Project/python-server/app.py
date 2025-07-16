@@ -4,10 +4,9 @@ from flask_cors import CORS
 
 app = Flask(__name__)
 
-# Option 1: Enable CORS for all routes (simple)
 CORS(app)
 
-# Sample data - replace with your actual 74 items
+
 PRODUCTS_DATA = products
 
 @app.route("/")

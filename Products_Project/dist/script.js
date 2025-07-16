@@ -43,6 +43,7 @@ function renderProducts(products) {
           <img src="${product.thumbnail}" alt="${product.title}" class="h-48 w-full object-cover"/>
         </figure>
         <div class="card-body">
+        
           <h2 class="card-title text-lg">${product.title}</h2>
           <p class="text-sm">${product.description.slice(0, 70)}...</p>
           <div class="card-actions justify-between items-center">

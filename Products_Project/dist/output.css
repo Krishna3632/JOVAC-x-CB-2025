@@ -1323,6 +1323,9 @@
     --btn-shadow: 0 0 0 0 oklch(0% 0 0/0), 0 0 0 0 oklch(0% 0 0/0);
     isolation: isolate;
   }
+  .isolate {
+    isolation: isolate;
+  }
   .z-1 {
     z-index: 1;
   }
@@ -1495,6 +1498,9 @@
   .grid {
     display: grid;
   }
+  .hidden {
+    display: none;
+  }
   .table {
     display: table;
   }
@@ -1632,6 +1638,11 @@
     }
     font-size: 0.875rem;
     font-weight: 600;
+  }
+  .badge-xs {
+    --size: calc(var(--size-selector, 0.25rem) * 4);
+    font-size: 0.625rem;
+    padding-inline: calc(0.25rem * 2 - var(--border));
   }
   .text-center {
     text-align: center;
@@ -1799,6 +1810,10 @@
     --fontsize: 0.75rem;
     --btn-p: 0.75rem;
     --size: calc(var(--size-field, 0.25rem) * 8);
+  }
+  .badge-warning {
+    --badge-color: var(--color-warning);
+    --badge-fg: var(--color-warning-content);
   }
   .btn-primary {
     --btn-color: var(--color-primary);

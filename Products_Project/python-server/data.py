@@ -556,5 +556,455 @@ products=[
     "category": "Home & Kitchen",
     "subcategory": "Cookware",
     "thumbnail": "https://images.unsplash.com/photo-1556909114-9b9a1b19f1b9?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 63,
+    "title": "Wireless Bluetooth Earbuds",
+    "description": "Premium quality wireless earbuds with noise cancellation and 24-hour battery life. IPX7 waterproof rating.",
+    "price": 7999,
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "thumbnail": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 64,
+    "title": "Ergonomic Office Chair",
+    "description": "Professional ergonomic office chair with lumbar support and adjustable height. Breathable mesh back design.",
+    "price": 24999,
+    "category": "Furniture",
+    "subcategory": "Office Furniture",
+    "thumbnail": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 65,
+    "title": "Smart Fitness Tracker",
+    "description": "Advanced fitness tracker with heart rate monitoring, GPS, and sleep tracking. 7-day battery life.",
+    "price": 12999,
+    "category": "Electronics",
+    "subcategory": "Wearables",
+    "thumbnail": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 66,
+    "title": "Organic Cotton Bed Sheets",
+    "description": "Luxurious 100% organic cotton bed sheet set. Hypoallergenic and breathable. Available in multiple colors.",
+    "price": 8999,
+    "category": "Home & Kitchen",
+    "subcategory": "Bedding",
+    "thumbnail": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 67,
+    "title": "Stainless Steel Water Bottle",
+    "description": "Insulated stainless steel water bottle keeps drinks cold for 24 hours. BPA-free with leak-proof design.",
+    "price": 2999,
+    "category": "Sports & Outdoors",
+    "subcategory": "Hydration",
+    "thumbnail": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 68,
+    "title": "LED Desk Lamp",
+    "description": "Adjustable LED desk lamp with multiple brightness levels and color temperatures. USB charging port included.",
+    "price": 4999,
+    "category": "Home & Kitchen",
+    "subcategory": "Lighting",
+    "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 69,
+    "title": "Yoga Mat with Alignment Lines",
+    "description": "Premium eco-friendly yoga mat with alignment guides. Non-slip surface and extra cushioning for comfort.",
+    "price": 5999,
+    "category": "Sports & Outdoors",
+    "subcategory": "Fitness",
+    "thumbnail": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 70,
+    "title": "Coffee Grinder Electric",
+    "description": "Burr coffee grinder with 18 grind settings. Consistent grind for perfect coffee extraction every time.",
+    "price": 15999,
+    "category": "Home & Kitchen",
+    "subcategory": "Small Appliances",
+    "thumbnail": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 71,
+    "title": "Bamboo Cutting Board Set",
+    "description": "Sustainable bamboo cutting board set with juice grooves. Includes three different sizes for various tasks.",
+    "price": 3499,
+    "category": "Home & Kitchen",
+    "subcategory": "Kitchen Tools",
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0ff0fffe19a?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 72,
+    "title": "Wireless Phone Charger",
+    "description": "Fast wireless charging pad compatible with all Qi-enabled devices. Includes LED indicator and foreign object detection.",
+    "price": 3999,
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "thumbnail": "https://images.unsplash.com/photo-1609592806092-44e9172057ee?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 73,
+    "title": "Memory Foam Pillow",
+    "description": "Contour memory foam pillow with cooling gel layer. Provides optimal neck and head support for better sleep.",
+    "price": 6999,
+    "category": "Home & Kitchen",
+    "subcategory": "Bedding",
+    "thumbnail": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 74,
+    "title": "Portable Bluetooth Speaker",
+    "description": "Compact waterproof Bluetooth speaker with 360-degree sound. 12-hour battery life and hands-free calling.",
+    "price": 8999,
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "thumbnail": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 75,
+    "title": "Essential Oil Diffuser",
+    "description": "Ultrasonic aromatherapy diffuser with LED color changing lights. Auto shut-off and whisper-quiet operation.",
+    "price": 4499,
+    "category": "Home & Kitchen",
+    "subcategory": "Home Decor",
+    "thumbnail": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 76,
+    "title": "Running Shoes",
+    "description": "Lightweight running shoes with responsive cushioning and breathable mesh upper. Perfect for daily training.",
+    "price": 11999,
+    "category": "Fashion",
+    "subcategory": "Footwear",
+    "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 77,
+    "title": "Instant Pot Multi-Cooker",
+    "description": "7-in-1 electric pressure cooker with smart programming. Replaces multiple kitchen appliances in one device.",
+    "price": 19999,
+    "category": "Home & Kitchen",
+    "subcategory": "Small Appliances",
+    "thumbnail": "https://images.unsplash.com/photo-1585515656812-6a47764048de?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 78,
+    "title": "Blue Light Blocking Glasses",
+    "description": "Computer glasses with blue light filtering technology. Reduces eye strain and improves sleep quality.",
+    "price": 2999,
+    "category": "Health & Personal Care",
+    "subcategory": "Vision Care",
+    "thumbnail": "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 79,
+    "title": "Resistance Bands Set",
+    "description": "Complete resistance training kit with 5 bands of varying resistance levels. Includes door anchor and exercise guide.",
+    "price": 3999,
+    "category": "Sports & Outdoors",
+    "subcategory": "Fitness",
+    "thumbnail": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 80,
+    "title": "Smart Thermostat",
+    "description": "WiFi-enabled programmable thermostat with app control. Energy-saving features and learning capabilities.",
+    "price": 24999,
+    "category": "Electronics",
+    "subcategory": "Smart Home",
+    "thumbnail": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 81,
+    "title": "Ceramic Dinner Plate Set",
+    "description": "Elegant 12-piece ceramic dinner set. Microwave and dishwasher safe with modern minimalist design.",
+    "price": 7999,
+    "category": "Home & Kitchen",
+    "subcategory": "Dinnerware",
+    "thumbnail": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 82,
+    "title": "Laptop Stand Adjustable",
+    "description": "Ergonomic aluminum laptop stand with adjustable height and angle. Improves posture and reduces neck strain.",
+    "price": 5999,
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "thumbnail": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 83,
+    "title": "Organic Green Tea",
+    "description": "Premium organic green tea leaves sourced from high-altitude gardens. Rich in antioxidants and naturally caffinated.",
+    "price": 1999,
+    "category": "Food & Beverages",
+    "subcategory": "Tea & Coffee",
+    "thumbnail": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 84,
+    "title": "Wall-Mounted Shelves",
+    "description": "Floating wall shelves made from solid wood. Easy installation with hidden mounting brackets. Set of 3.",
+    "price": 8999,
+    "category": "Home & Kitchen",
+    "subcategory": "Storage & Organization",
+    "thumbnail": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 85,
+    "title": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with precision tracking and long battery life. Compatible with all operating systems.",
+    "price": 2499,
+    "category": "Electronics",
+    "subcategory": "Computer Accessories",
+    "thumbnail": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 86,
+    "title": "Skincare Gift Set",
+    "description": "Complete skincare routine set with cleanser, toner, serum, and moisturizer. Suitable for all skin types.",
+    "price": 14999,
+    "category": "Health & Personal Care",
+    "subcategory": "Skincare",
+    "thumbnail": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 87,
+    "title": "Hiking Backpack",
+    "description": "Durable 40L hiking backpack with multiple compartments and hydration system compatibility. Weather-resistant.",
+    "price": 18999,
+    "category": "Sports & Outdoors",
+    "subcategory": "Outdoor Gear",
+    "thumbnail": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 88,
+    "title": "Electric Toothbrush",
+    "description": "Rechargeable electric toothbrush with multiple cleaning modes and smart timer. Includes 4 brush heads.",
+    "price": 9999,
+    "category": "Health & Personal Care",
+    "subcategory": "Oral Care",
+    "thumbnail": "https://images.unsplash.com/photo-1607613009820-a29f7bb81c04?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 89,
+    "title": "Canvas Wall Art",
+    "description": "Modern abstract canvas print ready to hang. High-quality printing on premium canvas with wooden frame.",
+    "price": 6999,
+    "category": "Home & Kitchen",
+    "subcategory": "Home Decor",
+    "thumbnail": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 90,
+    "title": "Gaming Mechanical Keyboard",
+    "description": "RGB backlit mechanical gaming keyboard with customizable keys and macro programming. Tactile switches.",
+    "price": 13999,
+    "category": "Electronics",
+    "subcategory": "Gaming",
+    "thumbnail": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 91,
+    "title": "Protein Powder",
+    "description": "Whey protein isolate with 25g protein per serving. Available in multiple flavors. Supports muscle growth.",
+    "price": 4999,
+    "category": "Health & Personal Care",
+    "subcategory": "Supplements",
+    "thumbnail": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 92,
+    "title": "Smart Door Lock",
+    "description": "Keyless entry smart lock with fingerprint and app control. Battery powered with low-battery alerts.",
+    "price": 29999,
+    "category": "Electronics",
+    "subcategory": "Smart Home",
+    "thumbnail": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 93,
+    "title": "Stainless Steel Cookware Set",
+    "description": "Professional-grade stainless steel pots and pans set. Tri-ply construction for even heating. Oven safe.",
+    "price": 34999,
+    "category": "Home & Kitchen",
+    "subcategory": "Cookware",
+    "thumbnail": "https://images.unsplash.com/photo-1556909114-9b9a1b19f1b9?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 94,
+    "title": "Silk Scarf",
+    "description": "Luxurious 100% silk scarf with elegant floral pattern. Versatile accessory for any season and occasion.",
+    "price": 7999,
+    "category": "Fashion",
+    "subcategory": "Accessories",
+    "thumbnail": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 95,
+    "title": "Air Purifier",
+    "description": "HEPA air purifier removes 99.97% of airborne particles. Covers up to 300 sq ft with quiet operation.",
+    "price": 19999,
+    "category": "Home & Kitchen",
+    "subcategory": "Air Quality",
+    "thumbnail": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 96,
+    "title": "Dumbbell Set",
+    "description": "Adjustable dumbbell set with weight plates ranging from 5-50 lbs. Space-saving design for home gym.",
+    "price": 39999,
+    "category": "Sports & Outdoors",
+    "subcategory": "Fitness",
+    "thumbnail": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 97,
+    "title": "Smart Watch",
+    "description": "Feature-rich smartwatch with health monitoring, GPS, and smartphone integration. Water-resistant design.",
+    "price": 29999,
+    "category": "Electronics",
+    "subcategory": "Wearables",
+    "thumbnail": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 98,
+    "title": "Cashmere Sweater",
+    "description": "Premium cashmere pullover sweater with classic fit. Soft, warm, and perfect for layering in colder weather.",
+    "price": 19999,
+    "category": "Fashion",
+    "subcategory": "Clothing",
+    "thumbnail": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 99,
+    "title": "Espresso Machine",
+    "description": "Semi-automatic espresso machine with milk frother. Professional-quality brewing for cafe-style coffee at home.",
+    "price": 49999,
+    "category": "Home & Kitchen",
+    "subcategory": "Small Appliances",
+    "thumbnail": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 100,
+    "title": "Garden Tool Set",
+    "description": "Complete 10-piece gardening tool set with ergonomic handles. Includes trowel, pruners, and watering accessories.",
+    "price": 8999,
+    "category": "Home & Kitchen",
+    "subcategory": "Garden & Patio",
+    "thumbnail": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 101,
+    "title": "Weighted Blanket",
+    "description": "Therapeutic weighted blanket for better sleep and anxiety relief. Available in multiple weights and colors.",
+    "price": 12999,
+    "category": "Home & Kitchen",
+    "subcategory": "Bedding",
+    "thumbnail": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 102,
+    "title": "Wireless Gaming Headset",
+    "description": "Professional gaming headset with surround sound and noise-canceling microphone. Long battery life.",
+    "price": 16999,
+    "category": "Electronics",
+    "subcategory": "Gaming",
+    "thumbnail": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 103,
+    "title": "Leather Wallet",
+    "description": "Genuine leather bi-fold wallet with RFID blocking technology. Multiple card slots and bill compartment.",
+    "price": 5999,
+    "category": "Fashion",
+    "subcategory": "Accessories",
+    "thumbnail": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 104,
+    "title": "Humidifier",
+    "description": "Ultrasonic cool mist humidifier with large water tank. Whisper-quiet operation and automatic shut-off.",
+    "price": 7999,
+    "category": "Home & Kitchen",
+    "subcategory": "Air Quality",
+    "thumbnail": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 105,
+    "title": "Tennis Racket",
+    "description": "Professional tennis racket with graphite frame and comfortable grip. Suitable for intermediate to advanced players.",
+    "price": 14999,
+    "category": "Sports & Outdoors",
+    "subcategory": "Racquet Sports",
+    "thumbnail": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 106,
+    "title": "Vitamin D3 Supplements",
+    "description": "High-potency Vitamin D3 capsules for bone health and immune support. Third-party tested for purity.",
+    "price": 1999,
+    "category": "Health & Personal Care",
+    "subcategory": "Supplements",
+    "thumbnail": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 107,
+    "title": "Outdoor String Lights",
+    "description": "Weather-resistant LED string lights perfect for patios and gardens. Energy-efficient with warm white glow.",
+    "price": 3999,
+    "category": "Home & Kitchen",
+    "subcategory": "Garden & Patio",
+    "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 108,
+    "title": "Backpack Laptop Bag",
+    "description": "Professional laptop backpack with padded compartment for 15-inch laptops. Multiple pockets and USB charging port.",
+    "price": 7999,
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "thumbnail": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 109,
+    "title": "Ceramic Mug Set",
+    "description": "Set of 4 handcrafted ceramic mugs with unique glazed finish. Perfect for coffee, tea, or hot chocolate.",
+    "price": 4999,
+    "category": "Home & Kitchen",
+    "subcategory": "Drinkware",
+    "thumbnail": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 110,
+    "title": "Hair Dryer",
+    "description": "Professional ionic hair dryer with multiple heat and speed settings. Reduces frizz and drying time.",
+    "price": 8999,
+    "category": "Health & Personal Care",
+    "subcategory": "Hair Care",
+    "thumbnail": "https://images.unsplash.com/photo-1607613009820-a29f7bb81c04?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 111,
+    "title": "Car Phone Mount",
+    "description": "Universal car phone holder with 360-degree rotation and strong suction cup. Compatible with all phone sizes.",
+    "price": 1999,
+    "category": "Electronics",
+    "subcategory": "Automotive",
+    "thumbnail": "https://images.unsplash.com/photo-1609592806092-44e9172057ee?w=400&h=400&fit=crop"
+  },
+  {
+    "id": 112,
+    "title": "Reading Glasses",
+    "description": "Stylish reading glasses with anti-reflective coating. Available in multiple magnification strengths.",
+    "price": 2999,
+    "category": "Health & Personal Care",
+    "subcategory": "Vision Care",
+    "thumbnail": "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?w=400&h=400&fit=crop"
   }
 ]
